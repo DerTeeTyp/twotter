@@ -1,7 +1,9 @@
 {
   "name": "twotter-project",
   "version": "0.1.0",
-  "private": true,
+  "engines": {
+    "node": "x"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
